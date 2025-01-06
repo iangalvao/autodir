@@ -1,0 +1,13 @@
+task-manager/
+├── backend/
+│   ├── Dockerfile
+│   ├── requirements.txt
+│   ├── manage.py
+│   ├── task_manager/
+│   └── tasks/
+├── frontend/
+│   ├── Dockerfile
+│   ├── package.json
+│   ├── src/
+│   └── public/
+└── docker-compose.yml
