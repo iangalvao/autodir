@@ -16,10 +16,10 @@ A Python script that creates a project directory and file structure from a tree-
 
 Clone the repository:
 
-```bash
-git clone https://github.com/iangalvao/project-tree-generator.git
-cd project-tree-generator
-```
+   ```bash
+   git clone https://github.com/iangalvao/autodir.git
+   cd autodir
+   ```
 
 ## Usage
 
